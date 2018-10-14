@@ -1,2 +1,2 @@
 #Getting into GitHub
-This is my text project.
+This is my test project.
